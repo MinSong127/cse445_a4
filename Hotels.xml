@@ -146,4 +146,18 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
+
+	<!-- Hotel 11 -->
+	<Hotel Rating="4.1">
+	    <Name>Grand Canyon Lodge</Name>
+	    <Phone>928-638-2611</Phone>
+	    <Phone>800-297-2252</Phone>
+	    <Address NearestAirport="Flagstaff Pulliam Airport">
+	        <Number>1</Number>
+	        <Street>North Rim Drive</Street>
+	        <City>Grand Canyon</City>
+	        <State>AZ</State>
+	        <Zip>86023</Zip>
+	    </Address>
+	</Hotel>
 </Hotels>
