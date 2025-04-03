@@ -5,7 +5,7 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
@@ -17,7 +17,7 @@
 	<Hotel Rating="4.5">
 		<Name>Marriott Phoenix Downtown</Name>
 		<Phone>602-254-8400</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>100</Number>
 			<Street>N 1st St</Street>
 			<City>Phoenix</City>
@@ -43,7 +43,7 @@
 	<Hotel Rating="3.8">
 		<Name>Sheraton Grand Phoenix</Name>
 		<Phone>602-262-2500</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>340</Number>
 			<Street>N 3rd St</Street>
 			<City>Phoenix</City>
@@ -55,7 +55,7 @@
 	<Hotel Rating="4.7">
 		<Name>Four Seasons Resort Scottsdale</Name>
 		<Phone>480-515-5700</Phone>
-		<Address NearestAirport="Scottsdale Airport">
+		<Address NearstAirport="Scottsdale Airport">
 			<Number>10600</Number>
 			<Street>E Crescent Moon Dr</Street>
 			<City>Scottsdale</City>
@@ -67,7 +67,7 @@
 	<!-- Error 3: Missing Phone element -->
 	<Hotel>
 		<Name>The Clarendon Hotel</Name>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>401</Number>
 			<Street>W Clarendon Ave</Street>
 			<City>Phoenix</City>
@@ -81,7 +81,7 @@
 		<Phone>602-955-6600</Phone>
 		<Phone>800-950-0086</Phone>
 		<!-- Error 4: Address element has no closing tag -->
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>2400</Number>
 			<Street>E Missouri Ave</Street>
 			<City>Phoenix</City>
@@ -94,7 +94,7 @@
 		<Name>Hotel Valley Ho</Name>
 		<Name>Second Name Not Allowed</Name>
 		<Phone>480-376-2600</Phone>
-		<Address NearestAirport="Scottsdale Airport">
+		<Address NearstAirport="Scottsdale Airport">
 			<Number>6850</Number>
 			<Street>E Main St</Street>
 			<City>Scottsdale</City>
@@ -106,7 +106,7 @@
 	<Hotel>
 		<Name>Royal Palms Resort</Name>
 		<Phone>602-283-1234</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>5200</Number>
 			<Street>E Camelback Rd</Street>
 			<City>Phoenix</City>
@@ -119,7 +119,7 @@
 		<Name>The Phoenician</Name>
 		<Phone>480-941-8200</Phone>
 		<Phone>800-888-8234</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>6000</Number>
 			<Street>E Camelback Rd</Street>
 			<City>Scottsdale</City>
@@ -131,7 +131,7 @@
 	<Hotel Rating="3.9">
 		<Name>Renaissance Phoenix Downtown</Name>
 		<Phone>602-333-0000</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>100</Number>
 			<Street>N 1st St</Street>
 			<City>Phoenix</City>
